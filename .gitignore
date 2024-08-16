@@ -1,7 +1,6 @@
 .ipynb_checkpoints
 *.csv
 *.tsv
-*.md
 venv
 *~
 
